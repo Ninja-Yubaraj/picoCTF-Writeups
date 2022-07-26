@@ -1,0 +1,20 @@
+So, this is the place where I started.
+
+This community looks comfy, they are giving nice challenges, a nice web-shell, well everything I need to start ctf, here comes the best part, IN FREE!!!
+Like I cannot believe it, so I started this on May 6 2021, around 9:45 PM in my timezone, the "HOME" timezone.
+
+So this challenge seems nice to get me ready
+A simple tast, just download the file and check it out, with cat ofcourse.
+
+They said to check the man page for cat.
+I may know what it is. But I saw it anyways. Then I started to tinker with the file.
+Tried to open it in the Windows OS, thing like that.
+
+Now I found that, on default conditions, when you try to open the files it ask to choose how to open it.
+I remember that Windows generally uses the extension to guess what type of file is we dealing with. In other case, In linux we have to call a program first before asking it to view the file
+So when I open this file with something like a browser, word-editor, code-editor, and even wordpad, and Microsoft Word, it shows me the flag. But something like a media player says its
+corrupted or something else.
+Huuh, Seems files know how to work. Do I know how they work? This also means we can have some files in files, like maybe a image, but we can "CAT" it out. Seems interesting!!!
+
+
+After all I guess THERE ARE MANY TYPES OF FILES I NEED TO KNOW, so I am going to check for them later. . . 

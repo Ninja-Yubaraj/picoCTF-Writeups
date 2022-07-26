@@ -1,0 +1,26 @@
+I saw this one coming.
+
+So it seems out, we can have files inside of files, or "HIDDEN" information inside of other files.
+Thats why they thought its a nice name for this module.
+
+Well I first downloaded the image, saw it, it was cute.
+
+First Hint said to get some details about the image.
+Tried to "cat" the cat, it failed, simply put binary stuff.
+Again tried to use "strings" on the cat, failed again, random garbage output.
+Then I thought to use a tool to check the metadeta of the image.
+This tools is "exiftool".
+
+All things seems normal, except the license part.
+Hint says the flag will be always something like picoCTF{XXXXX}
+I am not that experienced, but it looks Base64.
+
+Decoded it with "echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | base64 -d"
+It worked. God my flag. And I am ready to go.
+
+The best mindset for CTF is to always look for a anomaly in standard patterns.
+Find the missing blocks, search for them, try something else, even check the holes.
+
+However, in real life, I may spend my entire life to find it and close my eyes trying.
+But in CTF, theres always a missing block, just look for it. . .
+

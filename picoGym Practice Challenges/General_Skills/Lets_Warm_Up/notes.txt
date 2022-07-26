@@ -1,0 +1,1 @@
+I searched for “hexadecimal to ascii” and used the first result. In the hexadecimal value field I typed in 0x70 and the ascii value field resulted in “p”

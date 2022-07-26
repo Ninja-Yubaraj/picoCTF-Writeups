@@ -1,0 +1,5 @@
+The hint, it was the key for this one,
+Before this I had no idea what a hex editor is. Happy to see that I learned something today.
+
+well i downloaded the image. Searched for online hex editor. uploaded the image, and then scrolled down a bit.
+Found the flag at the end. From next time I am gonna always check out for hex data inside files. . .

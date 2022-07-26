@@ -1,0 +1,5 @@
+This is one is easy, just connect to the box with the domain and port
+
+Still recommending to have a loop at the man page or some lectures on nc.
+
+I got the flag by running "nc jupiter.challenges.picoctf.org 64287" . . .

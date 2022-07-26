@@ -1,0 +1,14 @@
+The module is Mod 26
+
+As stated, we need to decrypt a simple string in Rot 13.
+
+So, wiki says "ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.
+ROT13 is a special case of the Caesar cipher which was developed in ancient Rome."
+
+Simply put, take a letter, lets say "H", move to next 13 spaces, now its "U"
+Thus, "HELLO" is "URYYB"
+
+Hint says you can do this by hand, or maybe use any tool to do it.
+
+Its stated right. Cryptography is easy when you know what are you doing.
+Simply put, take a character or a string, change it with another with a pre-defined technique or path and then dont forget it or say good bye to the data in the string. . .

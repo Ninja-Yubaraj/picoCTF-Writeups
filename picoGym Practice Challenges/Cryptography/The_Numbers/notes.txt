@@ -1,0 +1,12 @@
+Ok now this one was hard, just because I did not get the hint at the first.
+
+So I started out with downloading the image.
+tried to use cat, exiftools, strings, hex editor and well a few more but did not find anything.
+
+So the only thing left is the image itself. Simply enough, I found a patter in the numbers.
+After sometime, I figured it out, so English language have 26 letters or 26 elemets, each overwritten with a number.
+
+So I used a tool to figure out the flag, but sadly at first it did not worked out.
+After sometime, I figured that everytime the flag starts with "pico" and not "PICO", that means they have change the cases to all uppercase.
+
+And shortly after I find the flag and submitted it. Next time, maybe next time I will understant the hint first. . .

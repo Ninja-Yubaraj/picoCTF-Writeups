@@ -1,0 +1,12 @@
+This one is easy when you read the hints.
+
+The first Hint asks to learn and practise how to connect to an ip and port with nc.
+The second refers to a ascii ctf pointing out that we are gonna get some ascii in here.
+
+So, Therefore I completed both.
+After that, this looks very easy.
+
+Got the netcat connect running by using "nc ip port"
+and then used a online tool to convert the ascii data to text.
+
+Thats How I got the flag.

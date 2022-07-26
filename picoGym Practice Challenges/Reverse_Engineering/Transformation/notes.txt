@@ -1,0 +1,6 @@
+''.join([chr((ord(flag[i]) << 8) + ord(flag[i + 1])) for i in range(0, len(flag), 2)])
+
+I dont know what this really means, not even whats the stuff inside the enc 
+Well this looks like, well some Asian language, why I said so?
+
+Well this kinda looks like Japanese or maybe Korean, or even Chinese

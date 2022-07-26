@@ -1,0 +1,10 @@
+Well this one is self-explained!
+The name of the challenge have strings in it, also hint says to check out the man page for strings.
+
+So to solve this, I first used strings and funneled the output to a text file.
+Then I used grep to find the flag staring with picoCTF, as I know thats how it starts.
+
+$strings strings > output.txt
+$grep "picoCTF" file
+
+So thats how I found the flag. . .

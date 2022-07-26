@@ -1,0 +1,2 @@
+Simple conversion from decimal to binary 
+I used a online tool for easy. . .
